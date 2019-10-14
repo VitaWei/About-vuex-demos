@@ -1,2 +1,30 @@
 # About-vuex-demos
-This is a vuex demo for Xiaobai learning.
+``` bash
+# install dependencies
+npm install
+
+# serve with hot reload at localhost:8080
+npm run dev
+
+# build for production with minification
+npm run build
+
+# build for production and view the bundle analyzer report
+npm run build --report
+```
+
+#### 首先先下载vue-cli的脚手架 
+
+``` bash
+# install @vue/cli-ini
+npm install -g @vue/cli-init
+
+# init webpack
+vue init webpack shop-cart
+
+# npm vuex
+npm i --save vuex
+
+# install dependencies
+npm i
+```
